@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/SimpleCountdown/bin/Debug/net10.0/SimpleCountdown
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/SimpleCountdown/bin/Debug/net10.0/SimpleCountdown.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/SimpleCountdown/bin/Debug/net10.0/SimpleCountdown.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/SimpleCountdown/bin/Debug/net10.0/SimpleCountdown.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/SimpleCountdown/bin/Debug/net10.0/SimpleCountdown.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/SimpleCountdown/obj/Debug/net10.0/SimpleCountdown.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/SimpleCountdown/obj/Debug/net10.0/SimpleCountdown.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/SimpleCountdown/obj/Debug/net10.0/SimpleCountdown.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/SimpleCountdown/obj/Debug/net10.0/SimpleCountdown.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/SimpleCountdown/obj/Debug/net10.0/SimpleCountdown.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/SimpleCountdown/obj/Debug/net10.0/refint/SimpleCountdown.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/SimpleCountdown/obj/Debug/net10.0/SimpleCountdown.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/SimpleCountdown/obj/Debug/net10.0/SimpleCountdown.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/SimpleCountdown/obj/Debug/net10.0/ref/SimpleCountdown.dll

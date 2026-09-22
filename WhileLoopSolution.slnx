@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Compounding_Balance_Calculator/Compounding_Balance_Calculator.csproj" />
+  <Project Path="Digit_Extractor/Digit_Extractor.csproj" />
+  <Project Path="Guess_The_Number/Guess_The_Number.csproj" />
+  <Project Path="Input_Guard/Input_Guard.csproj" />
+  <Project Path="SimpleCountdown/SimpleCountdown.csproj" />
+  <Project Path="Summing_Numbers_Until_Zero/Summing_Numbers_Until_Zero.csproj" />
+</Solution>

@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Guess_The_Number/bin/Debug/net10.0/Guess_The_Number
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Guess_The_Number/bin/Debug/net10.0/Guess_The_Number.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Guess_The_Number/bin/Debug/net10.0/Guess_The_Number.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Guess_The_Number/bin/Debug/net10.0/Guess_The_Number.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Guess_The_Number/bin/Debug/net10.0/Guess_The_Number.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Guess_The_Number/obj/Debug/net10.0/Guess_The_Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Guess_The_Number/obj/Debug/net10.0/Guess_The_Number.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Guess_The_Number/obj/Debug/net10.0/Guess_The_Number.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Guess_The_Number/obj/Debug/net10.0/Guess_The_Number.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Guess_The_Number/obj/Debug/net10.0/Guess_The_Number.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Guess_The_Number/obj/Debug/net10.0/refint/Guess_The_Number.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Guess_The_Number/obj/Debug/net10.0/Guess_The_Number.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Guess_The_Number/obj/Debug/net10.0/Guess_The_Number.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Guess_The_Number/obj/Debug/net10.0/ref/Guess_The_Number.dll

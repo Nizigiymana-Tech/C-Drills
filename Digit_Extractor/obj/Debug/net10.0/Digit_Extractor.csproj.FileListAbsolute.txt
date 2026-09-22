@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Digit_Extractor/bin/Debug/net10.0/Digit_Extractor
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Digit_Extractor/bin/Debug/net10.0/Digit_Extractor.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Digit_Extractor/bin/Debug/net10.0/Digit_Extractor.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Digit_Extractor/bin/Debug/net10.0/Digit_Extractor.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Digit_Extractor/bin/Debug/net10.0/Digit_Extractor.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Digit_Extractor/obj/Debug/net10.0/Digit_Extractor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Digit_Extractor/obj/Debug/net10.0/Digit_Extractor.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Digit_Extractor/obj/Debug/net10.0/Digit_Extractor.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Digit_Extractor/obj/Debug/net10.0/Digit_Extractor.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Digit_Extractor/obj/Debug/net10.0/Digit_Extractor.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Digit_Extractor/obj/Debug/net10.0/refint/Digit_Extractor.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Digit_Extractor/obj/Debug/net10.0/Digit_Extractor.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Digit_Extractor/obj/Debug/net10.0/Digit_Extractor.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Digit_Extractor/obj/Debug/net10.0/ref/Digit_Extractor.dll

@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Input_Guard/bin/Debug/net10.0/Input_Guard
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Input_Guard/bin/Debug/net10.0/Input_Guard.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Input_Guard/bin/Debug/net10.0/Input_Guard.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Input_Guard/bin/Debug/net10.0/Input_Guard.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Input_Guard/bin/Debug/net10.0/Input_Guard.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Input_Guard/obj/Debug/net10.0/Input_Guard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Input_Guard/obj/Debug/net10.0/Input_Guard.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Input_Guard/obj/Debug/net10.0/Input_Guard.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Input_Guard/obj/Debug/net10.0/Input_Guard.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Input_Guard/obj/Debug/net10.0/Input_Guard.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Input_Guard/obj/Debug/net10.0/refint/Input_Guard.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Input_Guard/obj/Debug/net10.0/Input_Guard.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Input_Guard/obj/Debug/net10.0/Input_Guard.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Input_Guard/obj/Debug/net10.0/ref/Input_Guard.dll

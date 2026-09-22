@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Compounding_Balance_Calculator/bin/Debug/net10.0/Compounding_Balance_Calculator
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Compounding_Balance_Calculator/bin/Debug/net10.0/Compounding_Balance_Calculator.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Compounding_Balance_Calculator/bin/Debug/net10.0/Compounding_Balance_Calculator.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Compounding_Balance_Calculator/bin/Debug/net10.0/Compounding_Balance_Calculator.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Compounding_Balance_Calculator/bin/Debug/net10.0/Compounding_Balance_Calculator.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Compounding_Balance_Calculator/obj/Debug/net10.0/Compounding_Balance_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Compounding_Balance_Calculator/obj/Debug/net10.0/Compounding_Balance_Calculator.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Compounding_Balance_Calculator/obj/Debug/net10.0/Compounding_Balance_Calculator.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Compounding_Balance_Calculator/obj/Debug/net10.0/Compounding_Balance_Calculator.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Compounding_Balance_Calculator/obj/Debug/net10.0/Compounding_Balance_Calculator.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Compounding_Balance_Calculator/obj/Debug/net10.0/refint/Compounding_Balance_Calculator.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Compounding_Balance_Calculator/obj/Debug/net10.0/Compounding_Balance_Calculator.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Compounding_Balance_Calculator/obj/Debug/net10.0/Compounding_Balance_Calculator.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Compounding_Balance_Calculator/obj/Debug/net10.0/ref/Compounding_Balance_Calculator.dll

@@ -1,0 +1,14 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Summing_Numbers_Until_Zero/bin/Debug/net10.0/Summing_Numbers_Until_Zero
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Summing_Numbers_Until_Zero/bin/Debug/net10.0/Summing_Numbers_Until_Zero.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Summing_Numbers_Until_Zero/bin/Debug/net10.0/Summing_Numbers_Until_Zero.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Summing_Numbers_Until_Zero/bin/Debug/net10.0/Summing_Numbers_Until_Zero.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Summing_Numbers_Until_Zero/bin/Debug/net10.0/Summing_Numbers_Until_Zero.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Summing_Numbers_Until_Zero/obj/Debug/net10.0/Summing_Numbers_Until_Zero.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Summing_Numbers_Until_Zero/obj/Debug/net10.0/Summing_Numbers_Until_Zero.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Summing_Numbers_Until_Zero/obj/Debug/net10.0/Summing_Numbers_Until_Zero.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Summing_Numbers_Until_Zero/obj/Debug/net10.0/Summing_Numbers_Until_Zero.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Summing_Numbers_Until_Zero/obj/Debug/net10.0/Summing_Numbers_Until_Zero.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Summing_Numbers_Until_Zero/obj/Debug/net10.0/refint/Summing_Numbers_Until_Zero.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Summing_Numbers_Until_Zero/obj/Debug/net10.0/Summing_Numbers_Until_Zero.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Summing_Numbers_Until_Zero/obj/Debug/net10.0/Summing_Numbers_Until_Zero.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Summing_Numbers_Until_Zero/obj/Debug/net10.0/ref/Summing_Numbers_Until_Zero.dll

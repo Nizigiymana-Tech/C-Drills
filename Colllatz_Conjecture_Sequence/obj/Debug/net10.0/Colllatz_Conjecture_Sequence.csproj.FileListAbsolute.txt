@@ -1,0 +1,15 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/bin/Debug/net10.0/Colllatz_Conjecture_Sequence
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/bin/Debug/net10.0/Colllatz_Conjecture_Sequence.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/bin/Debug/net10.0/Colllatz_Conjecture_Sequence.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/bin/Debug/net10.0/Colllatz_Conjecture_Sequence.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/bin/Debug/net10.0/Colllatz_Conjecture_Sequence.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/obj/Debug/net10.0/Colllatz_Conjecture_Sequence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/obj/Debug/net10.0/Colllatz_Conjecture_Sequence.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/obj/Debug/net10.0/Colllatz_Conjecture_Sequence.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/obj/Debug/net10.0/Colllatz_Conjecture_Sequence.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/obj/Debug/net10.0/Colllatz_Conjecture_Sequence.sourcelink.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/obj/Debug/net10.0/Colllatz_Conjecture_Sequence.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/obj/Debug/net10.0/refint/Colllatz_Conjecture_Sequence.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/obj/Debug/net10.0/Colllatz_Conjecture_Sequence.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/obj/Debug/net10.0/Colllatz_Conjecture_Sequence.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Colllatz_Conjecture_Sequence/obj/Debug/net10.0/ref/Colllatz_Conjecture_Sequence.dll

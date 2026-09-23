@@ -1,0 +1,15 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_Integer_Parser/bin/Debug/net10.0/Safe_Integer_Parser
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_integer_Parser/bin/Debug/net10.0/Safe_Integer_Parser.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_integer_Parser/bin/Debug/net10.0/Safe_Integer_Parser.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_Integer_Parser/bin/Debug/net10.0/Safe_Integer_Parser.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_Integer_Parser/bin/Debug/net10.0/Safe_Integer_Parser.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_Integer_Parser/obj/Debug/net10.0/Safe_Integer_Parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_Integer_Parser/obj/Debug/net10.0/Safe_Integer_Parser.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_Integer_Parser/obj/Debug/net10.0/Safe_Integer_Parser.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_Integer_Parser/obj/Debug/net10.0/Safe_Integer_Parser.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_Integer_Parser/obj/Debug/net10.0/Safe_Integer_Parser.sourcelink.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_Integer_Parser/obj/Debug/net10.0/Safe_Integer_Parser.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_Integer_Parser/obj/Debug/net10.0/refint/Safe_Integer_Parser.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_Integer_Parser/obj/Debug/net10.0/Safe_Integer_Parser.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_integer_Parser/obj/Debug/net10.0/Safe_Integer_Parser.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/Safe_integer_Parser/obj/Debug/net10.0/ref/Safe_Integer_Parser.dll

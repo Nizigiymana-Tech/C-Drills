@@ -15,6 +15,6 @@ class Program
             balance += (balance * interestRate);
         }
 
-        Console.WriteLine($"It took {years} years to reach ${balance:F2}");
+        Console.WriteLine($"It took " + years + " years to get " + balance + " monies");
     }
 }

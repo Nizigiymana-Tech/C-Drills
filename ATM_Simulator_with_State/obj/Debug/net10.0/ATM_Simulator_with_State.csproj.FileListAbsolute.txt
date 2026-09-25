@@ -1,0 +1,15 @@
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/bin/Debug/net10.0/ATM_Simulator_with_State
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/bin/Debug/net10.0/ATM_Simulator_with_State.deps.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/bin/Debug/net10.0/ATM_Simulator_with_State.runtimeconfig.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/bin/Debug/net10.0/ATM_Simulator_with_State.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/bin/Debug/net10.0/ATM_Simulator_with_State.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/obj/Debug/net10.0/ATM_Simulator_with_State.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/obj/Debug/net10.0/ATM_Simulator_with_State.AssemblyInfoInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/obj/Debug/net10.0/ATM_Simulator_with_State.AssemblyInfo.cs
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/obj/Debug/net10.0/ATM_Simulator_with_State.csproj.CoreCompileInputs.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/obj/Debug/net10.0/ATM_Simulator_with_State.sourcelink.json
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/obj/Debug/net10.0/ATM_Simulator_with_State.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/obj/Debug/net10.0/refint/ATM_Simulator_with_State.dll
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/obj/Debug/net10.0/ATM_Simulator_with_State.pdb
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/obj/Debug/net10.0/ATM_Simulator_with_State.genruntimeconfig.cache
+/Users/Terrance/Desktop/ShopWork/C#/Drills/1/ATM_Simulator_with_State/obj/Debug/net10.0/ref/ATM_Simulator_with_State.dll

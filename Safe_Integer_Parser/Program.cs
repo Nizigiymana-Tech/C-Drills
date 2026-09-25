@@ -7,14 +7,14 @@ class Program
         Console.Write("Enter an integer: ");
         string? input = Console.ReadLine();
         
-        int result;
+        int validnumber;
 
-        while (!int.TryParse(input, out result))
+        while (!int.TryParse(input, out validnumber)) {}
         {
             Console.Write("Invalid integer, try again: ");
             input = Console.ReadLine();
         }
 
-        Console.WriteLine($"Successfully parsed: {result}");
+        Console.WriteLine($"Successfully parsed: {validnumber}");
     }
 }

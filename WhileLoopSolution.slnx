@@ -1,9 +1,11 @@
 <Solution>
+  <Project Path="ATM_Simulator_with_State/ATM_Simulator_with_State.csproj" />
   <Project Path="Colllatz_Conjecture_Sequence/Colllatz_Conjecture_Sequence.csproj" />
   <Project Path="Compounding_Balance_Calculator/Compounding_Balance_Calculator.csproj" />
   <Project Path="Digit_Extractor/Digit_Extractor.csproj" />
   <Project Path="Guess_The_Number/Guess_The_Number.csproj" />
   <Project Path="Input_Guard/Input_Guard.csproj" />
+  <Project Path="Password_Strength_Enforcer/Password_Strength_Enforcer.csproj" />
   <Project Path="Safe_Integer_Parser/Safe_Integer_Parser.csproj" />
   <Project Path="SimpleCountdown/SimpleCountdown.csproj" />
   <Project Path="Summing_Numbers_Until_Zero/Summing_Numbers_Until_Zero.csproj" />
